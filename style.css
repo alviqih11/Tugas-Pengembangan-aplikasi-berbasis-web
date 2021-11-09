@@ -1,0 +1,67 @@
+.nav-link {
+	scroll-behavior: smooth;
+}
+
+.wrapper-header {
+	
+	background-image:  url(da1.png);
+	background-size: cover;
+	background-repeat: no-repeat;
+	height:450px;
+	background-position: 0 -150px;
+
+	
+}
+/* navbar */
+
+
+
+
+.navbar  {
+	color: white;
+	font-size: 20px;
+	font-weight: bold;
+}
+
+
+
+/* Nama Sekolah */
+
+.Sekolah-box {
+	font-size: 40px;
+	text-align: center;
+	font-weight: bold;
+	color: white;
+	margin-top: 10%;
+	
+}
+
+/*Search*/
+
+.input-group {
+	width: 650px;
+	margin: 0px auto;
+}
+
+.btn {
+	background-color: orange;
+}
+
+/*Berita*/
+
+.col h2 {
+	font-weight: bold;
+}
+hr {
+	width: 100px;
+	border:2px solid black;
+	margin: 0 auto;
+
+}
+
+
+/*Berita*/
+.footer {
+	height: 40px;
+	line-height: 40px;
+}
